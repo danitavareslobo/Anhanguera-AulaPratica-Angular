@@ -1,27 +1,70 @@
-# Menu
+<h1  align="center"> Aula Prática Angular</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
+<br>
 
-## Development server
+## Descrição do Projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Mini projeto desenvolvido para a disciplina de `Desenvolvimento com Framework Angular`.
 
-## Code scaffolding
+<br> 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## :hammer: Funcionalidades da Aplicação
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- `NavButtons` - Página contendo uma NavBar com um agrupamento de botões que direcionam para as respectivas redes sociais.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<br>
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Demonstração da Aplicação
 
-## Further help
+<br>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://github.com/danitavareslobo/Anhanguera-AulaPratica-Angular/assets/107322230/69d5c666-440d-4bf5-8ffa-156d0c6a0310)
+
+<br>
+<br>
+
+https://github.com/danitavareslobo/lab-fashion/assets/107322230/73abe9cc-fd1a-4837-a189-e7eb86051d02
+
+
+<br>
+
+
+
+## Acesso ao Projeto
+
+Você pode acessar os arquivos do projeto clicando aqui: :point_right:  https://github.com/danitavareslobo/Anhanguera-AulaPratica-Angular .
+Após baixar o projeto, você pode abrir o mesmo com Visual Code. 
+
+Com o projeto aberto, execute o seguinte comando no terminal:
+
+```sh
+npm install
+```
+
+
+Abra o terminal na Pasta do Projeto e execute o comando abaixo para visualizar o projeto rodando:
+
+```sh
+ng serve --o
+```
+
+<br>
+
+
+## Tecnologias Utilizadas
+- `HTML`
+- `CSS`
+- `TypeScript`
+- `Angular`
+- `Bootstrap`
+
+<br>
+
+
+## Autoria do Projeto
+
+| [<img src="https://github.com/danitavareslobo/Anhanguera-AulaPratica-Angular/assets/107322230/11972833-e1c0-427f-b126-aaf9a43ee01a" width= 150><br><sub>Daniele Tavares Lobo</sub>](https://github.com/danitavareslobo) |
+| :----: |
